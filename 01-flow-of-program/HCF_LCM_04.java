@@ -21,3 +21,4 @@ public class HCF_LCM_04 {
     System.out.println("The lcm is: " + lcm);
   }
 }
+
